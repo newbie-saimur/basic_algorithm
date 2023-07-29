@@ -25,7 +25,7 @@ using namespace std;
 #define pi           (double)(acos(-1))
 #define gcd(a, b)    __gcd(a, b)
 #define lcm(a, b)    (a * b) / __gcd(a, b)
-#define mod          (ll)(1e9+7)
+#define mod          (ll)(1e18+7)
 
 #define min3(a,b,c)     min(a,min(b,c))
 #define max3(a,b,c)     max(a,max(b,c))
