@@ -90,8 +90,8 @@ using namespace std;
 #define max4(a,b,c,d)   max(a,max(b,max(c,d)))
 
 #define case     cout<<"Case "<<k<<": "
-#define yes      cout<<"YES\n";
-#define no       cout<<"NO\n";
+#define yes      cout<<"YES\n"
+#define no       cout<<"NO\n"
 #define endl     "\n"
 int k;
 
